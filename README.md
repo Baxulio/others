@@ -1,0 +1,2 @@
+# others
+different qt techniques
