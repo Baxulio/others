@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>button.qml</file>
+        <file>../../../12301521_1655503134738983_6326797348517269752_n.jpg</file>
+        <file>../../../image.jpg</file>
+    </qresource>
+</RCC>
